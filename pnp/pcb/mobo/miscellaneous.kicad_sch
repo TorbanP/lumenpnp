@@ -240,6 +240,9 @@
     (property "Datasheet" "" (at 134.62 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "LCSC" "DNP" (at 134.62 96.52 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (instances
       (project "mobo"
         (path "/7255cbd1-8d38-4545-be9a-7fc5488ef942/e42a41b2-396d-4f02-8c5f-05a8dce2e3c6"
@@ -264,6 +267,9 @@
     (property "Datasheet" "" (at 134.62 106.68 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "LCSC" "DNP" (at 134.62 106.68 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (instances
       (project "mobo"
         (path "/7255cbd1-8d38-4545-be9a-7fc5488ef942/e42a41b2-396d-4f02-8c5f-05a8dce2e3c6"
@@ -286,6 +292,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 134.62 101.6 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC" "DNP" (at 134.62 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
@@ -337,6 +346,9 @@
     (property "Datasheet" "~" (at 163.83 106.68 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "LCSC" "DNP" (at 163.83 106.68 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid ff430e8c-4db7-46ce-a84c-87a10bf6b8f9))
     (instances
       (project "mobo"
@@ -360,6 +372,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 163.83 124.46 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC" "DNP" (at 163.83 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 48bd8ddc-b4fd-473e-854b-db67179c0277))
@@ -387,6 +402,9 @@
     (property "Datasheet" "" (at 134.62 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "LCSC" "DNP" (at 134.62 118.11 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (instances
       (project "mobo"
         (path "/7255cbd1-8d38-4545-be9a-7fc5488ef942/e42a41b2-396d-4f02-8c5f-05a8dce2e3c6"
@@ -409,6 +427,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 163.83 97.79 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC" "DNP" (at 163.83 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 4925870a-3a86-4fa9-986c-ebdc3a8648bc))
@@ -436,6 +457,9 @@
     (property "Datasheet" "" (at 134.62 128.27 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "LCSC" "DNP" (at 134.62 128.27 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (instances
       (project "mobo"
         (path "/7255cbd1-8d38-4545-be9a-7fc5488ef942/e42a41b2-396d-4f02-8c5f-05a8dce2e3c6"
@@ -458,6 +482,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 163.83 115.57 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC" "DNP" (at 163.83 115.57 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid a1400134-9e1f-4432-a0bb-b1d261853f2a))
@@ -483,6 +510,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 134.62 123.19 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC" "DNP" (at 134.62 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
